@@ -4,13 +4,6 @@
 
 ---
 
-## 🎨 主題色彩（雙色，水藍色 ± 60° 配色）
-
-* **Primary 主色（水藍色）**：`#00A8E8`
-* **Secondary 副色（薄荷綠）**：`#00E8A8`
-
----
-
 ## 🧩 技能與技術堆疊
 
 ### **前端框架**
@@ -18,12 +11,12 @@
 * <img src="https://skillicons.dev/icons?i=vue" width="22" /> **Vue 3**（Composition API / Script Setup） + **Ant Design Vue**
 * <img src="https://skillicons.dev/icons?i=angular" width="22" /> **Angular** + **Angular Material / Nebular Theme**
 
-### **資料視覺化（Data Visualization）**
+### **資料視覺化**
 
 * <img src="https://skillicons.dev/icons?i=echarts" width="22" /> **ECharts**
 * <img src="https://skillicons.dev/icons?i=deckgl" width="22" /> **deck.gl**
 
-### **AI 工程（AI Engineering）**
+### **AI 工程**
 
 * MCP（Model Context Protocol）
 * Sub-agent 協作流程
@@ -52,17 +45,17 @@
 
 ---
 
-## 🎨 極簡雙色視覺示意圖（Mermaid 配合水藍＋薄荷綠）
+## 🎨 極簡雙色視覺示意圖
 
 ```mermaid
 graph TD
-  A([前端核心 Core Frontend]) -->|水藍| B([Vue 3])
-  A -->|薄荷綠| C([Angular])
-  A -->|水藍| D([ECharts])
-  A -->|薄荷綠| E([deck.gl])
-  F([AI 工程 AI Engineering]) -->|水藍| G([MCP])
-  F -->|薄荷綠| H([Sub Agent])
-  F -->|水藍| I([Context Engineering])
+  A([前端核心 Core Frontend]) --> B([Vue 3])
+  A --> C([Angular])
+  A --> D([ECharts])
+  A --> E([deck.gl])
+  F([AI 工程 AI Engineering]) --> G([MCP])
+  F --> H([Sub Agent])
+  F --> I([Context Engineering])
 ```
 
 ---
@@ -73,28 +66,12 @@ graph TD
 
 ---
 
-## 🖼️ 極簡 SVG Banner（自動深色 / 淺色）
-
-
-<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    text { font-family: 'Segoe UI', sans-serif; font-size: 34px; font-weight: 600; }
-    @media (prefers-color-scheme: dark) {
-      text { fill: #00E8A8; }
-    }
-    @media (prefers-color-scheme: light) {
-      text { fill: #00A8E8; }
-    }
-  </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
-    Yang Tzu Yi — Front-End Engineer
-  </text>
-</svg>
-
----
-
 ## ⌨️ 動態標題 Banner
 
 ![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3000\&pause=500\&color=00A8E8\&center=true\&vCenter=true\&width=600\&lines=前端工程師;Vue+%2F+Angular+開發者;資料視覺化+%2F+AI+工作流整合)
 
 ---
+
+## 📫 聯絡方式
+
+* GitHub: [Yang-tzu-yi](https://github.com/Yang-tzu-yi)
