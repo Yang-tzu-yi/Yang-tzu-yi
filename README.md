@@ -80,8 +80,9 @@ graph TB
         C2[Agent Workflow]
     end
 
-    Frontend ~~~ Mobile
-    Visualization ~~~ AI
+    %% 2x2 Grid Layout
+    Frontend ~~~ Visualization
+    Mobile ~~~ AI
     
     style Frontend fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style Mobile fill:#3880FF,stroke:#1F6FEB,color:#fff
