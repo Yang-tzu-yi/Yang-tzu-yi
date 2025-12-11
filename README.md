@@ -36,8 +36,8 @@
 
 ### 🏗️ 架構設計
 ![Architecture](https://img.shields.io/badge/Architecture-Design-6366F1?style=flat-square)
-![npm](https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Module Pattern](https://img.shields.io/badge/Module-Pattern-10B981?style=flat-square)
+![npm](https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 - **元件拆分與組織**：專注於可重用元件設計與模組結構規劃
 - **模組設計模式**：Feature / Shared / Core Module 的架構實踐
