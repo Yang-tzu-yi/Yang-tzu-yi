@@ -34,12 +34,14 @@
 - **Leaflet** (輕量級地圖)
 - **OpenSeadragon** (高解析度圖像縮放)
 
-### 🏗️ 架構設計與工具
+### 🏗️ 架構設計
 ![Architecture](https://img.shields.io/badge/Architecture-Design-6366F1?style=flat-square)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Module Pattern](https://img.shields.io/badge/Module-Pattern-10B981?style=flat-square)
 
-- 可重用元件設計
-- npm package 開發
+- **元件拆分與組織**：專注於可重用元件設計與模組結構規劃
+- **模組設計模式**：Feature / Shared / Core Module 的架構實踐
+- **跨專案共享**：建立 npm package 實現模組化共用
 
 ### 🤖 AI 工程與協作
 ![AI](https://img.shields.io/badge/AI-Tools-9333EA?style=flat-square)
@@ -58,7 +60,7 @@ graph TB
     subgraph Frontend["前端核心"]
         A1[Angular / Vue 3]
         A2[TypeScript]
-        A3[Component Design]
+        A3[Feature / Shared / Core Modules]
     end
 
     subgraph Mobile["混合開發 (Hybrid)"]
