@@ -6,55 +6,40 @@
 
 ## 💻 技術堆疊
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
-
 ### 🎯 前端框架
-- **Angular** (Component / Module 架構)
-  - Angular Material / Nebular
-- **Vue 3** (Composition API / Script Setup)
-  - Ant Design Vue
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Material-0081CB?style=flat-square&logo=material-design&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 
-</div>
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 10px; color: #333;">
+**Angular** (Component / Module 架構) • **Vue 3** (Composition API / Script Setup)
 
 ### 🏗️ 架構與模組化
-- 可重用元件設計與規劃
-- Feature / Shared / Core Module 設計模式
-- npm package 開發與跨專案共享
+![Architecture](https://img.shields.io/badge/Architecture-Design-6366F1?style=flat-square)
+![npm](https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Module](https://img.shields.io/badge/Module-Pattern-10B981?style=flat-square)
 
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; color: white;">
+可重用元件設計 • Feature / Shared / Core Module • npm package 開發
 
 ### 📊 資料視覺化
-- **Apache ECharts**
-- **deck.gl**
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apache-echarts&logoColor=white)
+![deck.gl](https://img.shields.io/badge/deck.gl-65C7F7?style=flat-square)
 
-</div>
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; color: white;">
+**Apache ECharts** • **deck.gl**
 
 ### 🤖 AI 工程工具
-- **MCP** (Model Context Protocol)
-- **Sub-agent 協作流程**
-- **Context Engineering**
+![AI](https://img.shields.io/badge/AI-Tools-9333EA?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Protocol-3B82F6?style=flat-square)
 
-</div>
-
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 10px; color: white; grid-column: 1 / -1;">
+**MCP** (Model Context Protocol) • **Sub-agent 協作流程** • **Context Engineering**
 
 ### 🛠️ 開發工具
-- TypeScript / JavaScript
-- Vite / Webpack
-- REST API / GraphQL
-- Git / GitHub
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-</div>
-
-</div>
+TypeScript / JavaScript • Vite / Webpack • REST API / GraphQL • Git / GitHub
 
 ---
 
