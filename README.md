@@ -4,27 +4,47 @@
 
 ---
 
-## 技術堆疊
+## 💻 技術堆疊
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
 
 ### 🎯 前端框架
-- **Angular** (Angular Material / Nebular)
-- **Vue 3** (Composition API / Script Setup / Ant Design Vue)
+- **Angular** (Component / Module 架構)
+  - Angular Material / Nebular
+- **Vue 3** (Composition API / Script Setup)
+  - Ant Design Vue
+
+</div>
+
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 10px; color: #333;">
+
+### 🏗️ 架構與模組化
+- 可重用元件設計與規劃
+- Feature / Shared / Core Module 設計模式
+- npm package 開發與跨專案共享
+
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; color: white;">
 
 ### 📊 資料視覺化
 - **Apache ECharts**
 - **deck.gl**
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 10px; color: white;">
 
 ### 🤖 AI 工程工具
 - **MCP** (Model Context Protocol)
 - **Sub-agent 協作流程**
 - **Context Engineering**
+
+</div>
+
+<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 10px; color: white; grid-column: 1 / -1;">
 
 ### 🛠️ 開發工具
 - TypeScript / JavaScript
@@ -32,13 +52,13 @@
 - REST API / GraphQL
 - Git / GitHub
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
-## 技術工具
+## 🔧 技術工具
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
