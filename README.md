@@ -36,8 +36,8 @@
 
 ### 🏗️ 架構設計
 ![Architecture](https://img.shields.io/badge/Architecture-Design-6366F1?style=flat-square)
-![Module Pattern](https://img.shields.io/badge/Module-Pattern-10B981?style=flat-square)
 ![npm](https://img.shields.io/badge/npm-Package-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Module Pattern](https://img.shields.io/badge/Module-Pattern-10B981?style=flat-square)
 
 - **元件拆分與組織**：專注於可重用元件設計與模組結構規劃
 - **模組設計模式**：Feature / Shared / Core Module 的架構實踐
@@ -56,7 +56,7 @@
 ## 技術架構視圖
 
 ```mermaid
-graph TB
+graph LR
     subgraph Frontend["前端核心"]
         A1[Angular / Vue 3]
         A2[TypeScript]
@@ -79,8 +79,8 @@ graph TB
         C1[MCP Protocol]
         C2[Agent Workflow]
     end
-    
 
+    Frontend ~~~ Mobile ~~~ Visualization ~~~ AI
     
     style Frontend fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style Mobile fill:#3880FF,stroke:#1F6FEB,color:#fff
