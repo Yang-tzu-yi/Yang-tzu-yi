@@ -57,18 +57,18 @@
 
 ```mermaid
 graph TB
-    subgraph Frontend["前端核心"]
-        A1[Angular / Vue 3]
-        A2[TypeScript]
-        A3[Feature / Shared / Core Modules]
-    end
-
     subgraph Mobile["混合開發 (Hybrid)"]
         M1[Ionic Framework]
         M2[Capacitor / Cordova]
         M3[Native Plugins]
     end
     
+    subgraph Frontend["前端核心"]
+        A1[Angular / Vue 3]
+        A2[TypeScript]
+        A3[Feature / Shared / Core Modules]
+    end
+
     subgraph Visualization["視覺化與地圖"]
         B1[ECharts]
         B2[deck.gl]
