@@ -6,24 +6,35 @@
 
 ## 技術堆疊
 
-### 前端框架
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 前端框架
 - **Angular** (Angular Material / Nebular)
 - **Vue 3** (Composition API / Script Setup / Ant Design Vue)
 
-### 資料視覺化
+### 📊 資料視覺化
 - **Apache ECharts**
 - **deck.gl**
 
-### AI 工程工具
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI 工程工具
 - **MCP** (Model Context Protocol)
 - **Sub-agent 協作流程**
 - **Context Engineering**
 
-### 開發工具
+### 🛠️ 開發工具
 - TypeScript / JavaScript
 - Vite / Webpack
 - REST API / GraphQL
 - Git / GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
