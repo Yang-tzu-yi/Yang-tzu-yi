@@ -11,14 +11,17 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Angular** (Component / Module 架構) • **Vue 3** (Composition API) • **TypeScript**
+- **Angular** (Component / Module 架構)
+- **Vue 3** (Composition API)
+- **TypeScript**
 
 ### 📱 跨平台與混合開發 (Hybrid Mobile)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black)
 
-**Ionic Framework** (UI & UX) • **Capacitor / Cordova** (Native Bridge & Runtime)
+- **Ionic Framework** (UI & UX)
+- **Capacitor / Cordova** (Native Bridge & Runtime)
 
 ### 📊 資料視覺化與地圖應用
 ![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apache-echarts&logoColor=white)
@@ -26,21 +29,25 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![OpenSeadragon](https://img.shields.io/badge/OpenSeadragon-005596?style=flat-square)
 
-**Apache ECharts** (互動圖表) • **deck.gl** (大規模數據可視化)
-**Leaflet** (輕量級地圖) • **OpenSeadragon** (高解析度圖像縮放)
+- **Apache ECharts** (互動圖表)
+- **deck.gl** (大規模數據可視化)
+- **Leaflet** (輕量級地圖)
+- **OpenSeadragon** (高解析度圖像縮放)
 
 ### 🏗️ 架構設計與工具
 ![Architecture](https://img.shields.io/badge/Architecture-Design-6366F1?style=flat-square)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-可重用元件設計 • Monorepo 管理 • npm package 開發
+- 可重用元件設計
+- npm package 開發
 
 ### 🤖 AI 工程與協作
 ![AI](https://img.shields.io/badge/AI-Tools-9333EA?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-3B82F6?style=flat-square)
 
-**MCP** (Model Context Protocol) • **Sub-agent 協作流程** • **Context Engineering**
+- **MCP** (Model Context Protocol)
+- **Sub-agent 協作流程**
+- **Context Engineering**
 
 ---
 
@@ -71,11 +78,7 @@ graph TB
         C2[Agent Workflow]
     end
     
-    Frontend --> Mobile
-    Frontend --> Visualization
-    Mobile --> Visualization
-    AI -.-> Frontend
-    AI -.-> Mobile
+
     
     style Frontend fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style Mobile fill:#3880FF,stroke:#1F6FEB,color:#fff
