@@ -56,7 +56,7 @@
 ## 技術架構視圖
 
 ```mermaid
-graph LR
+graph TB
     subgraph Frontend["前端核心"]
         A1[Angular / Vue 3]
         A2[TypeScript]
@@ -79,6 +79,8 @@ graph LR
         C1[MCP Protocol]
         C2[Agent Workflow]
     end
+
+    Frontend ~~~ Mobile ~~~ Visualization ~~~ AI
     
     style Frontend fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style Mobile fill:#3880FF,stroke:#1F6FEB,color:#fff
