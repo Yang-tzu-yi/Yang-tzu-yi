@@ -47,9 +47,9 @@
 ![AI](https://img.shields.io/badge/AI-Tools-9333EA?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-3B82F6?style=flat-square)
 
+- **Context Engineering**
 - **MCP** (Model Context Protocol)
 - **Sub-agent 協作流程**
-- **Context Engineering**
 
 ---
 
